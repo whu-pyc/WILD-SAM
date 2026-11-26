@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "Please cite WILD-SAM if you use this network implementation."
+title: "WILD-SAM: Phase-Aware Expert Adaptation of SAM for Landslide Detection in Wrapped InSAR Interferograms"
+type: software
+authors:
+  - family-names: Pan
+    given-names: Yucheng
+  - family-names: Li
+    given-names: Heping
+  - family-names: Liu
+    given-names: Zhangle
+  - family-names: Hussain
+    given-names: Sajid
+  - family-names: Pan
+    given-names: Bin
